@@ -1,4 +1,4 @@
-package Big_O;
+package solutions.Introduction.Big_O;
 
 public class Ex_09 {
 	public static void printUnorderedPairs(int[] arrayA, int[] arrayB) {

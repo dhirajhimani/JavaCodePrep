@@ -1,4 +1,4 @@
-package Big_O;
+package solutions.Introduction.Big_O;
 
 public class Ex_11 {
 	public static void reverse(int[] array) {

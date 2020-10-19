@@ -1,7 +1,7 @@
 package Q2_07_Intersection;
 
-import CtCILibrary.AssortedMethods;
-import CtCILibrary.LinkedListNode;
+import solutions.CtCILibrary.CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 

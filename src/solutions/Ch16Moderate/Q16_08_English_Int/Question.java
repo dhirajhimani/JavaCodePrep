@@ -2,7 +2,7 @@ package Q16_08_English_Int;
 
 import java.util.LinkedList;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 	public static String[] smalls = {"Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};

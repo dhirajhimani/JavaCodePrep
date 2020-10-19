@@ -1,6 +1,6 @@
-package Introduction;
+package solutions.Ch03StacksandQueues.Introduction;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Quicksort {
 	public static void swap(int[] array, int i, int j) {

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionB {
 	public static ArrayList<Point> getPath(boolean[][] maze) {

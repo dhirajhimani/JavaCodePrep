@@ -2,7 +2,7 @@ package Q17_02_Shuffle;
 
 import java.util.Random;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {	
 	public static int[] shuffleArrayRecursively(int[] cards, int i) {

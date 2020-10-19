@@ -1,4 +1,4 @@
-package Q5_08_Draw_Line;
+package solutions.Ch05BitManipulation.Q5_08_Draw_Line;
 
 public class Question {
 	public static int computeByteNum(int width, int x, int y) {

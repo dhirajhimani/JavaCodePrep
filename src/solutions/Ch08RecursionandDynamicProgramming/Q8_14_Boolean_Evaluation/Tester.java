@@ -1,4 +1,4 @@
-package Q8_14_Boolean_Evaluation;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_14_Boolean_Evaluation;
 
 import java.util.HashMap;
 import java.util.Map.Entry;

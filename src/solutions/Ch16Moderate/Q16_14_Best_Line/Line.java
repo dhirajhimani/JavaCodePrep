@@ -1,4 +1,4 @@
-package Q16_14_Best_Line;
+package solutions.Ch16Moderate.Q16_14_Best_Line;
 
 public class Line {
 	public static double epsilon = .5;

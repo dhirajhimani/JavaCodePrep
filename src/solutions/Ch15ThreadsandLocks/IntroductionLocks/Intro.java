@@ -1,4 +1,4 @@
-package IntroductionLocks;
+package solutions.Ch15ThreadsandLocks.IntroductionLocks;
 
 public class Intro {
 

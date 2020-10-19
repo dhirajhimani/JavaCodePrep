@@ -1,4 +1,4 @@
-package CtCILibrary;
+package solutions.CtCILibrary.CtCILibrary;
 
 public class LinkedListNode {
 	public LinkedListNode next;

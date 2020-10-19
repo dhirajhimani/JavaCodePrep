@@ -1,4 +1,4 @@
-package Big_O;
+package solutions.Introduction.Big_O;
 
 public class Ex_14 {
 	public static boolean isPrime(int n) {

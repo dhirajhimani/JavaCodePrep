@@ -1,9 +1,9 @@
-package Q4_09_BST_Sequences;
+package solutions.Ch04TreesandGraphs.Q4_09_BST_Sequences;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
 
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 	

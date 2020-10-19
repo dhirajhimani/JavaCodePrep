@@ -1,6 +1,6 @@
-package Q4_08_First_Common_Ancestor;
+package solutions.Ch04TreesandGraphs.Q4_08_First_Common_Ancestor;
 
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionA {
 	public static TreeNode commonAncestor(TreeNode p, TreeNode q) {

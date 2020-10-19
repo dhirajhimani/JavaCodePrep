@@ -2,7 +2,7 @@ package Q16_09_Operations;
 
 import java.util.Random;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 	/* Flip a positive sign to negative, or a negative sign to pos */

@@ -1,4 +1,4 @@
-package Q10_10_Rank_from_Stream;
+package solutions.Ch10SortingandSearching.Q10_10_Rank_from_Stream;
 
 import java.util.Comparator;
 

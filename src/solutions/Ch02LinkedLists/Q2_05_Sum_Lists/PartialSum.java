@@ -1,6 +1,6 @@
-package Q2_05_Sum_Lists;
+package solutions.Ch02LinkedLists.Q2_05_Sum_Lists;
 
-import CtCILibrary.LinkedListNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class PartialSum {
 	public LinkedListNode sum = null;

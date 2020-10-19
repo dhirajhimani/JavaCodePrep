@@ -1,9 +1,9 @@
-package Q17_17_Multi_Search;
+package solutions.Ch17Hard.Q17_17_Multi_Search;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import CtCILibrary.HashMapList;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionB {
 	public static void subtractValue(ArrayList<Integer> locations, int delta) {

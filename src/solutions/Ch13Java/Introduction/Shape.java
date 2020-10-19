@@ -1,4 +1,4 @@
-package Introduction;
+package solutions.Ch13Java.Introduction;
 
 public abstract class Shape {
 	public void printMe() {

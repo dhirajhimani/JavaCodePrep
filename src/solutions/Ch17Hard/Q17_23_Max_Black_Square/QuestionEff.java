@@ -1,6 +1,6 @@
 package Q17_23_Max_Black_Square;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionEff {
 	public static Subsquare findSquareWithSize(SquareCell[][] processed, int square_size) {

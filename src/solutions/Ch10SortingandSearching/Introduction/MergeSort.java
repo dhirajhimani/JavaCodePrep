@@ -1,6 +1,6 @@
-package Introduction;
+package solutions.Ch03StacksandQueues.Introduction;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class MergeSort {	
 	public static void mergesort(int[] array) {

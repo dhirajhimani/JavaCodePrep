@@ -1,6 +1,6 @@
-package Q4_03_List_of_Depths;
+package solutions.Ch04TreesandGraphs.Q4_03_List_of_Depths;
 
-import CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 import java.util.ArrayList;
 import java.util.Iterator;

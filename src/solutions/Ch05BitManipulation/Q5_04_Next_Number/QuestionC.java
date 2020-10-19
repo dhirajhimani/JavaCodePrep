@@ -1,4 +1,4 @@
-package Q5_04_Next_Number;
+package solutions.Ch05BitManipulation.Q5_04_Next_Number;
 
 public class QuestionC {
 	public static int getNextArith(int n) {

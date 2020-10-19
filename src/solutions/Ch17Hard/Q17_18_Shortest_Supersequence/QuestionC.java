@@ -1,4 +1,4 @@
-package Q17_18_Shortest_Supersequence;
+package solutions.Ch17Hard.Q17_18_Shortest_Supersequence;
 
 public class QuestionC {
 

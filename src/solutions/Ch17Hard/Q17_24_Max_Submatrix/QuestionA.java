@@ -1,6 +1,6 @@
-package Q17_24_Max_Submatrix;
+package solutions.Ch17Hard.Q17_24_Max_Submatrix;
 
-import CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionA {
 	public static SubMatrix getMaxMatrix(int[][] matrix) {

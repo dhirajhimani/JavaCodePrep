@@ -1,10 +1,9 @@
-package Q16_20_T9;
+package solutions.Ch16Moderate.Q16_20_T9;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import CtCILibrary.AssortedMethods;
-import CtCILibrary.HashMapList;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionC {
 	public static int numLetters = 26;

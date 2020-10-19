@@ -1,4 +1,4 @@
-package Q16_21_Sum_Swap;
+package solutions.Ch16Moderate.Q16_21_Sum_Swap;
 
 import java.util.HashSet;
 

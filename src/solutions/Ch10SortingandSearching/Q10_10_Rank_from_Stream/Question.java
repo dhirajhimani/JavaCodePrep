@@ -1,6 +1,6 @@
-package Q10_10_Rank_from_Stream;
+package solutions.Ch10SortingandSearching.Q10_10_Rank_from_Stream;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 	private static RankNode root = null;

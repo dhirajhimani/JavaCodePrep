@@ -2,6 +2,7 @@ package whiteboardsolutions.Ch01ArraysandStrings.Q2Permutation;
 
 public class PermutationByConcat {
 
+    // wrong answer
     public static boolean validPermutation(String pString1, String pString2) {
         if (pString1 == null && pString2 == null) {
             return true;

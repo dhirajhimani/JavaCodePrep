@@ -1,4 +1,4 @@
-package Q16_07_Number_Max;
+package solutions.Ch16Moderate.Q16_07_Number_Max;
 
 public class Question {
 	/* Flips a 1 to a 0 and a 0 to a 1 */

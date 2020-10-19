@@ -1,6 +1,6 @@
-package Q4_02_Minimal_Tree;
+package solutions.Ch04TreesandGraphs.Q4_02_Minimal_Tree;
 
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {	
 	public static void main(String[] args) {

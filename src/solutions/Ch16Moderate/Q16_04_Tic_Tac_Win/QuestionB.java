@@ -1,7 +1,7 @@
-package Q16_04_Tic_Tac_Win;
+package solutions.Ch16Moderate.Q16_04_Tic_Tac_Win;
 
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionB {	
 	public static Piece hasWon(Piece[][] board, int row, int column) {

@@ -1,6 +1,6 @@
-package Q2_06_Palindrome;
+package solutions.Ch02LinkedLists.Q2_06_Palindrome;
 
-import CtCILibrary.LinkedListNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 import java.util.Stack;
 

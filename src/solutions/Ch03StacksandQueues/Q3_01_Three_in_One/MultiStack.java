@@ -1,8 +1,8 @@
-package Q3_01_Three_in_One;
+package solutions.Ch03StacksandQueues.Q3_01_Three_in_One;
 
 import java.util.EmptyStackException;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class MultiStack {
 	/* StackInfo is a simple class that holds a set of data about 

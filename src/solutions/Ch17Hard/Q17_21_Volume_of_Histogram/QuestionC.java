@@ -1,4 +1,4 @@
-package Q17_21_Volume_of_Histogram;
+package solutions.Ch17Hard.Q17_21_Volume_of_Histogram;
 
 public class QuestionC {
 

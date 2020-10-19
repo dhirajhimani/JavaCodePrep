@@ -1,4 +1,4 @@
-package Q8_14_Boolean_Evaluation;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_14_Boolean_Evaluation;
 
 public class QuestionA {
 	public static int count = 0;

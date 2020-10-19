@@ -1,4 +1,4 @@
-package Q1_04_Palindrome_Permutation;
+package solutions.Ch01ArraysandStrings.Q1_04_Palindrome_Permutation;
 
 public class QuestionB {	
 

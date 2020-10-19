@@ -1,7 +1,7 @@
-package Q4_12_Paths_with_Sum;
+package solutions.Ch04TreesandGraphs.Q4_12_Paths_with_Sum;
 
-import CtCILibrary.AssortedMethods;
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Tester {
 

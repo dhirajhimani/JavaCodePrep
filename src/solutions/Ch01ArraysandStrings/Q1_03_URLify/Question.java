@@ -1,6 +1,7 @@
 package solutions.Ch01ArraysandStrings.Q1_03_URLify;
 
-import CtCILibrary.AssortedMethods;
+
+import solutions.CtCILibrary.CtCILibrary.AssortedMethods;
 
 public class Question {
 	// Assume string has sufficient free space at the end
@@ -37,9 +38,11 @@ public class Question {
 	
 	public static void main(String[] args) {
 		String str = "Mr John Smith    ";
+		System.out.println("str.length() = " + str.length());
 		char[] arr = str.toCharArray();
 		int trueLength = findLastCharacter(arr) + 1;
-		replaceSpaces(arr, trueLength);	
+		System.out.println("trueLength = " + trueLength);
+		replaceSpaces(arr, trueLength);
 		System.out.println("\"" + AssortedMethods.charArrayToString(arr) + "\"");
 	}
 }

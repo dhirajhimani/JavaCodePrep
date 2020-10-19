@@ -1,6 +1,6 @@
-package Q17_11_Word_Distance;
+package solutions.Ch17Hard.Q17_11_Word_Distance;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionA {
 

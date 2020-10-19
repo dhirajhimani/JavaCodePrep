@@ -1,4 +1,4 @@
-package Q3_01_Three_in_One;
+package solutions.Ch03StacksandQueues.Q3_01_Three_in_One;
 
 public class FullStackException extends Exception {
 	private static final long serialVersionUID = 1L;

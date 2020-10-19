@@ -1,4 +1,4 @@
-package Q17_18_Shortest_Supersequence;
+package solutions.Ch17Hard.Q17_18_Shortest_Supersequence;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-import CtCILibrary.HashMapList;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionD {
 

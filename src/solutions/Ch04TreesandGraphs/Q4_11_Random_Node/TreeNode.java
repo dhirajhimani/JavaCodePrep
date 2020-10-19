@@ -1,4 +1,4 @@
-package Q4_11_Random_Node;
+package solutions.Ch04TreesandGraphs.Q4_11_Random_Node;
 
 import java.util.Random;
 

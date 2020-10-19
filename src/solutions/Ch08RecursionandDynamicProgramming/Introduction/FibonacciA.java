@@ -1,4 +1,4 @@
-package Introduction;
+package solutions.Ch08RecursionandDynamicProgramming.Introduction;
 
 public class FibonacciA {
 	public static int fibonacci(int i) {

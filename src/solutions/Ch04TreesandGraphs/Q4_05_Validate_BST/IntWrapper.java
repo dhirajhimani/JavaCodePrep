@@ -1,4 +1,4 @@
-package Q4_05_Validate_BST;
+package solutions.Ch04TreesandGraphs.Q4_05_Validate_BST;
 
 public class IntWrapper {
 	public IntWrapper(int m) {

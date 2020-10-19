@@ -1,6 +1,6 @@
-package Q17_25_Word_Rectangle;
+package solutions.Ch17Hard.Q17_25_Word_Rectangle;
 
-import CtCILibrary.Trie;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 /* A class that represents a rectangular array of letters. */
 public class Rectangle {

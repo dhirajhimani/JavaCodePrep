@@ -1,4 +1,4 @@
-package Q16_06_Smallest_Difference;
+package solutions.Ch16Moderate.Q16_06_Smallest_Difference;
 import java.util.Arrays;
 
 public class QuestionB {

@@ -1,6 +1,6 @@
 package Q16_16_Sub_Sort;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Tester {
 

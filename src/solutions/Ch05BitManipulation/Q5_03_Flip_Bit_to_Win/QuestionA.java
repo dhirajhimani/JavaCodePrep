@@ -1,4 +1,4 @@
-package Q5_03_Flip_Bit_to_Win;
+package solutions.Ch05BitManipulation.Q5_03_Flip_Bit_to_Win;
 
 public class QuestionA {
 	

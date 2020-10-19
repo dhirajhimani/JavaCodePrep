@@ -1,4 +1,4 @@
-package Q16_18_Pattern_Matcher;
+package solutions.Ch16Moderate.Q16_18_Pattern_Matcher;
 
 public class QuestionD {
 	public static boolean doesMatch(String pattern, String value) {

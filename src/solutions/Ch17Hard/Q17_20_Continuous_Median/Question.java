@@ -1,4 +1,4 @@
-package Q17_20_Continuous_Median;
+package solutions.Ch17Hard.Q17_20_Continuous_Median;
 
 import java.util.Arrays;
 import java.util.Comparator;

@@ -1,4 +1,4 @@
-package QVI_11_Print_Sorted_Strings;
+package solutions.BigO.QVI_11_Print_Sorted_Strings;
 
 
 public class Question {

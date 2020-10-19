@@ -1,4 +1,4 @@
-package Q17_17_Multi_Search;
+package solutions.Ch17Hard.Q17_17_Multi_Search;
 
 import java.util.ArrayList;
 

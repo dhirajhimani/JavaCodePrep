@@ -1,4 +1,4 @@
-package Q17_24_Max_Submatrix;
+package solutions.Ch17Hard.Q17_24_Max_Submatrix;
 
 public class Range {
 	public int start, end, sum;

@@ -1,10 +1,10 @@
-package Q16_14_Best_Line;
+package solutions.Ch16Moderate.Q16_14_Best_Line;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Set;
 
-import CtCILibrary.HashMapList;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {	
 	/* Find line that goes through most number of points. */

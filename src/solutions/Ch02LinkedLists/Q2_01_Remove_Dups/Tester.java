@@ -1,6 +1,6 @@
-package Q2_01_Remove_Dups;
+package solutions.Ch02LinkedLists.Q2_01_Remove_Dups;
 
-import CtCILibrary.LinkedListNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Tester {
 

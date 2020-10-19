@@ -1,4 +1,4 @@
-package Introduction;
+package solutions.Ch13Java.Introduction;
 
 public class Square extends Shape {
 	private double len = 5;

@@ -1,6 +1,6 @@
-package Q16_04_Tic_Tac_Win;
+package solutions.Ch16Moderate.Q16_04_Tic_Tac_Win;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Tester {	
 	public static Piece convertIntToPiece(int i) {

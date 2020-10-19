@@ -1,4 +1,4 @@
-package Q5_02_Binary_to_String;
+package solutions.Ch05BitManipulation.Q5_02_Binary_to_String;
 
 public class Question {
 	public static String printBinary(double num) {

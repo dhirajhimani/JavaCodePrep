@@ -1,6 +1,6 @@
-package Q15_03_Dining_Philosophers.QuestionA;
+package solutions.Ch15ThreadsandLocks.Q15_03_Dining_Philosophers.QuestionA;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Philosopher extends Thread {
 	private final int maxPause = 100;

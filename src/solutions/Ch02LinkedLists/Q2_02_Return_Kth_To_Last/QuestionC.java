@@ -1,6 +1,6 @@
-package Q2_02_Return_Kth_To_Last;
+package solutions.Ch02LinkedLists.Q2_02_Return_Kth_To_Last;
 
-import CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionC {
 	public static class Index {

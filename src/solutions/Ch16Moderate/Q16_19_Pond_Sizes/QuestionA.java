@@ -1,4 +1,4 @@
-package Q16_19_Pond_Sizes;
+package solutions.Ch16Moderate.Q16_19_Pond_Sizes;
 
 import java.util.ArrayList;
 

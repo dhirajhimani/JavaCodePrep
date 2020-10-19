@@ -1,4 +1,4 @@
-package Q15_03_Dining_Philosophers.QuestionA;
+package solutions.Ch15ThreadsandLocks.Q15_03_Dining_Philosophers.QuestionA;
 
 public class Question {
 	public static int size = 3;

@@ -1,6 +1,6 @@
-package Q5_01_Insertion;
+package solutions.Ch05BitManipulation.Q5_01_Insertion;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 

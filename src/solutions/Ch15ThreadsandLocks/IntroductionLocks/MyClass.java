@@ -1,9 +1,9 @@
-package IntroductionLocks;
+package solutions.Ch15ThreadsandLocks.IntroductionLocks;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class MyClass extends Thread  {
 	private NoLockATM noLockATM;

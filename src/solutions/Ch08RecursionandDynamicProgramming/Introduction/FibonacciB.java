@@ -1,4 +1,4 @@
-package Introduction;
+package solutions.Ch03StacksandQueues.Introduction;
 
 public class FibonacciB {
 	public static int fibonacci(int n) {

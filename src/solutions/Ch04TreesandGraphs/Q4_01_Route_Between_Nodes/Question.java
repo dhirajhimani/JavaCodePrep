@@ -1,4 +1,4 @@
-package Q4_01_Route_Between_Nodes;
+package solutions.Ch04TreesandGraphs.Q4_01_Route_Between_Nodes;
 
 import java.util.LinkedList;
 

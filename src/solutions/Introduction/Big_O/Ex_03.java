@@ -1,4 +1,4 @@
-package Big_O;
+package solutions.Introduction.Big_O;
 
 public class Ex_03 {
 	public static void minAndMax1(int[] array) {

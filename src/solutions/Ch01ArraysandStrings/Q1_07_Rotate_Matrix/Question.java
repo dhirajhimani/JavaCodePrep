@@ -1,6 +1,6 @@
-package Q1_07_Rotate_Matrix;
+package solutions.Ch01ArraysandStrings.Q1_07_Rotate_Matrix;
 
-import CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Question {
 

@@ -1,10 +1,9 @@
-package Q10_02_Group_Anagrams;
+package solutions.Ch10SortingandSearching.Q10_02_Group_Anagrams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import CtCILibrary.AssortedMethods;
-import CtCILibrary.HashMapList;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionB {
 	public static void sort(String[] array) {

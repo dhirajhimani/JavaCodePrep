@@ -1,5 +1,5 @@
-package Q4_04_Check_Balanced;
-import CtCILibrary.TreeNode;
+package solutions.Ch04TreesandGraphs.Q4_04_Check_Balanced;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionImproved {
 		

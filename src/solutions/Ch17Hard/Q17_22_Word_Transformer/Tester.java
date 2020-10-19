@@ -1,4 +1,4 @@
-package Q17_22_Word_Transformer;
+package solutions.Ch17Hard.Q17_22_Word_Transformer;
 
 import java.util.LinkedList;
 

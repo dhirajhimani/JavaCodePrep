@@ -1,4 +1,4 @@
-package Q8_13_Stack_of_Boxes;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_13_Stack_of_Boxes;
 
 import java.util.Comparator;
 

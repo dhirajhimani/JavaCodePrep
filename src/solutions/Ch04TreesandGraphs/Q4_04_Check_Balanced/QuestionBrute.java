@@ -1,7 +1,7 @@
-package Q4_04_Check_Balanced;
+package solutions.Ch04TreesandGraphs.Q4_04_Check_Balanced;
 
-import CtCILibrary.AssortedMethods;
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class QuestionBrute {
 	

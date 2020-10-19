@@ -1,4 +1,4 @@
-package Introduction;
+package solutions.Ch03StacksandQueues.Introduction;
 
 import java.util.NoSuchElementException;
 

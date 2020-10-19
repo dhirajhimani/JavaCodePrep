@@ -1,4 +1,4 @@
-package Q9_02_Social_Network;
+package solutions.Ch09ScalabilityandMemoryLimits.Q9_02_Social_Network;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package Big_O;
+package solutions.Introduction.Big_O;
 
 public class Ex_04 {
 	public static void foo(int[] arrA, int[] arrB) {

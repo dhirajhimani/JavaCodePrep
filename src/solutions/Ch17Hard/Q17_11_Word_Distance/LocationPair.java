@@ -1,4 +1,4 @@
-package Q17_11_Word_Distance;
+package solutions.Ch17Hard.Q17_11_Word_Distance;
 
 public class LocationPair {
 	public int location1;

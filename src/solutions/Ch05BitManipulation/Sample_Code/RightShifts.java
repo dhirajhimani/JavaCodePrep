@@ -1,6 +1,6 @@
-package Sample_Code;
+package solutions.Ch05BitManipulation.Sample_Code;
 
-import CtCILibrary.AssortedMethods;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class RightShifts {
 	public static int repeatedArithmeticShift(int x, int count) {

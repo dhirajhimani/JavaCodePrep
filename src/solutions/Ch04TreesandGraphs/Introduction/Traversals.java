@@ -1,6 +1,6 @@
-package Introduction;
+package solutions.Ch04TreesandGraphs.Introduction;
 
-import CtCILibrary.TreeNode;
+import solutions.CtCILibrary.CtCILibrary.*;
 
 public class Traversals {
 	public static void visit(TreeNode node) {
