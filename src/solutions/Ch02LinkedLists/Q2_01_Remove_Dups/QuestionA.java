@@ -23,7 +23,7 @@ public class QuestionA {
 		LinkedListNode head = first;
 		LinkedListNode second = first;
 		for (int i = 1; i < 8; i++) {
-			second = new LinkedListNode(i % 2, null, null);
+			second = new LinkedListNode(i % 3, null, null);
 			first.setNext(second);
 			second.setPrevious(first);
 			first = second;

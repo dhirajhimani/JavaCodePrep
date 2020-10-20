@@ -31,5 +31,6 @@ public class QuestionB {
 		}
 		System.out.println(head.printForward());
 		deleteDups(head);
+		System.out.println(head.printForward());
 	}
 }
