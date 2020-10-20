@@ -1,4 +1,4 @@
-package Q1_06_String_Compression;
+package solutions.Ch01ArraysandStrings.Q1_06_String_Compression;
 
 public class QuestionC {	
 	public static String compress(String str) {
