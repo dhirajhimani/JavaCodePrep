@@ -33,7 +33,7 @@ public class QuestionB {
 	}
 	
 	public static void main(String[] args) {
-		int length = 9;
+		int length = 5;
 		LinkedListNode[] nodes = new LinkedListNode[length];
 		for (int i = 0; i < length; i++) {
 			nodes[i] = new LinkedListNode(i >= length / 2 ? length - i - 1 : i, null, null);
