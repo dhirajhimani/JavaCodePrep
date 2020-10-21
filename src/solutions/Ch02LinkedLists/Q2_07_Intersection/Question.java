@@ -1,4 +1,4 @@
-package Q2_07_Intersection;
+package solutions.Ch02LinkedLists.Q2_07_Intersection;
 
 import solutions.CtCILibrary.CtCILibrary.*;
 import solutions.CtCILibrary.CtCILibrary.*;
