@@ -1,5 +1,6 @@
-package Q3_05_Sort_Stack;
+package solutions.Ch03StacksandQueues.Q3_05_Sort_Stack;
 
+import java.util.ListIterator;
 import java.util.Stack;
 
 import solutions.CtCILibrary.CtCILibrary.*;
@@ -64,12 +65,18 @@ public class Question {
 		
 	public static void main(String [] args) {
 		Stack<Integer> s = new Stack<Integer>();
-		for (int i = 0; i < 10; i++) {
-			int r = AssortedMethods.randomIntInRange(0,  1000);
+		for (int i = 0; i < 5; i++) {
+			int r = AssortedMethods.randomIntInRange(0,  100);
 			s.push(r);
 		}
+
+		for (Integer i : s) {
+			System.out.println(i);
+		}
+		System.out.println();
 		
-		sort(s);
+//		sort(s);
+		s = mergesort(s);
 		
 		while(!s.isEmpty()) {
 			System.out.println(s.pop());

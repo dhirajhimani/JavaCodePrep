@@ -1,4 +1,4 @@
-package Q3_06_Animal_Shelter;
+package solutions.Ch03StacksandQueues.Q3_06_Animal_Shelter;
 
 import java.util.LinkedList;
 

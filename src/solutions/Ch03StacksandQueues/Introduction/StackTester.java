@@ -35,7 +35,7 @@ public class StackTester {
 				stack2.push(a);
 			}
 		}
-		
+		System.out.println("Emptying tails");
 		while (!stack1.isEmpty() || !stack2.isEmpty()) {
 			int top1, top2;
 			try {

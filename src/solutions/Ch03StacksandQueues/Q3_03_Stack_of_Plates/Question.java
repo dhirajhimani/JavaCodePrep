@@ -1,4 +1,4 @@
-package Q3_03_Stack_of_Plates;
+package solutions.Ch03StacksandQueues.Q3_03_Stack_of_Plates;
 
 public class Question {
 	public static void main(String[] args) {

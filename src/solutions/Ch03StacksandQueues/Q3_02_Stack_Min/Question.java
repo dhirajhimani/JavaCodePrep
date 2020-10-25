@@ -1,4 +1,4 @@
-package Q3_02_Stack_Min;
+package solutions.Ch03StacksandQueues.Q3_02_Stack_Min;
 
 public class Question {
 	public static void main(String[] args) {

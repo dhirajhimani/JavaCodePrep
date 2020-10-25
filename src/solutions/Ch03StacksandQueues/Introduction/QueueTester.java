@@ -30,13 +30,16 @@ public class QueueTester {
 					System.out.println("ERROR: mismatching tails");
 				} else {
 					System.out.println("SUCCESS: matching tails: " + top1);
+					//System.out.println("SUCCESS: queue2.size(): " + queue2.size());
 				}
 			} else {
 				queue1.add(a);
 				queue2.add(a);
 			}
 		}
-		
+
+		System.out.println("Emptying tails");
+
 		while (!queue1.isEmpty() || !queue2.isEmpty()) {
 			int top1, top2;
 			try {

@@ -1,4 +1,4 @@
-package Q3_03_Stack_of_Plates;
+package solutions.Ch03StacksandQueues.Q3_03_Stack_of_Plates;
 
 public class Node {
 	public Node above;

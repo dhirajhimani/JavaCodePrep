@@ -1,4 +1,4 @@
-package Q3_02_Stack_Min;
+package solutions.Ch03StacksandQueues.Q3_02_Stack_Min;
 
 import java.util.Stack;
 
@@ -19,7 +19,7 @@ public class StackWithMin2 extends Stack<Integer> {
 	public Integer pop() {
 		int value = super.pop();
 		if (value == min()) {
-			s2.pop();			
+			s2.pop();
 		}
 		return value;
 	}
