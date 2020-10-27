@@ -1,4 +1,4 @@
-package Q8_03_Magic_Index;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_03_Magic_Index;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package Q8_04_Power_Set;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_04_Power_Set;
 
 import java.util.*;
 

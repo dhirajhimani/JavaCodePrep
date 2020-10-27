@@ -75,8 +75,8 @@ public class Question {
 		}
 		System.out.println();
 		
-//		sort(s);
-		s = mergesort(s);
+		sort(s);
+//		s = mergesort(s);
 		
 		while(!s.isEmpty()) {
 			System.out.println(s.pop());
