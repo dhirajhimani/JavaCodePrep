@@ -1,4 +1,4 @@
-package Q16_24_Pairs_With_Sum;
+package solutions.Ch16Moderate.Q16_24_Pairs_With_Sum;
 
 public class Pair {
 	public int first;

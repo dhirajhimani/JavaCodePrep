@@ -1,4 +1,4 @@
-package Q8_06_Towers_of_Hanoi;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_06_Towers_of_Hanoi;
 
 public class Question {
 	public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class Question {
 		buffer.name = "b";
 		
 		/* Load up tower */
-		int numberOfDisks = 5;
+		int numberOfDisks = 3;
 		for (int disk = numberOfDisks - 1; disk >= 0; disk--) {
 			source.add(disk);
 		}

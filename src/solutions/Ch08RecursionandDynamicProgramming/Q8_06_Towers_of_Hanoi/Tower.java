@@ -1,4 +1,4 @@
-package Q8_06_Towers_of_Hanoi;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_06_Towers_of_Hanoi;
 
 import java.util.Stack;
 

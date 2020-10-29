@@ -1,4 +1,4 @@
-package Q8_05_Recursive_Multiply;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_05_Recursive_Multiply;
 
 public class QuestionB {
 
