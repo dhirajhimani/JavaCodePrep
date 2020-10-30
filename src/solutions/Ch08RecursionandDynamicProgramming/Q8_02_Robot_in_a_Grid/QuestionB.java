@@ -1,4 +1,4 @@
-package Q8_02_Robot_in_a_Grid;
+package solutions.Ch08RecursionandDynamicProgramming.Q8_02_Robot_in_a_Grid;
 
 import java.util.ArrayList;
 import java.util.HashMap;
