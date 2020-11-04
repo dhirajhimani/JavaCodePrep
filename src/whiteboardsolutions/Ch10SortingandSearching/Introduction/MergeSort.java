@@ -50,17 +50,20 @@ public class MergeSort {
 	}
 	
 	public static void main(String[] args) {
-		int size = 20;
-		int[] array = AssortedMethods.randomArray(size, 0, size - 1);
+		int size = 6;
+//		int[] array = AssortedMethods.randomArray(size, 0, size - 1);
+		int[] array = {5,4,3,2,1,0};
 		int[] validate = new int[size];
 		AssortedMethods.printIntArray(array);
 		for (int i = 0; i < size; i++) {
 			validate[array[i]]++;
 		}
+		//AssortedMethods.printIntArray(validate);
 		mergesort(array);
 		for (int i = 0; i < size; i++) {
 			validate[array[i]]--;
-		}		
+		}
+		//AssortedMethods.printIntArray(validate);
 		AssortedMethods.printIntArray(array);
 		for (int i = 0; i < size; i++) {
 			if (validate[i] != 0 || (i < (size-1) && array[i] > array[i+1])) {

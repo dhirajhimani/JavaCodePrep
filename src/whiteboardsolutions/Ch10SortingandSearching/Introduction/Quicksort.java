@@ -44,7 +44,8 @@ public class Quicksort {
 	}
 	
 	public static void main(String[] args) {
-		int[] arr = AssortedMethods.randomArray(20, 0, 6);
+		int[] arr = {5,4,3,2,1,0};
+//		int[] arr = AssortedMethods.randomArray(20, 0, 6);
 		AssortedMethods.printIntArray(arr);	
 		quickSort(arr, 0, arr.length - 1);
 		AssortedMethods.printIntArray(arr);

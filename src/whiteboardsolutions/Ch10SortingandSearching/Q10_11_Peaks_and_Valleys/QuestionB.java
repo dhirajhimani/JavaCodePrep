@@ -36,7 +36,8 @@ public class QuestionB {
 	}
 
 	public static void main(String[] args) {
-		int[] array = {48, 40, 31, 62, 28, 21, 64, 40, 23, 17};
+//		int[] array = {48, 40, 31, 62, 28, 21, 64, 40, 23, 17};
+		int[] array = {5, 3, 1, 2, 3};
 		System.out.println(AssortedMethods.arrayToString(array));
 		sortValleyPeak(array);
 		System.out.println(AssortedMethods.arrayToString(array));
