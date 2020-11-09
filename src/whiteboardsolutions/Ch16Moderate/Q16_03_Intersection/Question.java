@@ -65,10 +65,14 @@ public class Question {
 
 	public static void main(String[] args) {
 
-		Point s1 = new Point(2147000000, 1);
-		Point e1 = new Point(-2147000000, -1);
-		Point s2 = new Point(-10, 0);
-		Point e2 = new Point(0, 0);
+//		Point s1 = new Point(2147000000, 1);
+//		Point e1 = new Point(-2147000000, -1);
+//		Point s2 = new Point(-10, 0);
+//		Point e2 = new Point(0, 0);
+		Point s1 = new Point(15, 10);
+		Point e1 = new Point(49, 25);
+		Point s2 = new Point(29, 5);
+		Point e2 = new Point(36, 22);
 		Point intersection = intersection(s1, e1, s2, e2);
 		System.out.println("Line Segment 1: " + s1 + " to " + e1);
 		System.out.println("Line Segment 2: " + s2 + " to " + e2);

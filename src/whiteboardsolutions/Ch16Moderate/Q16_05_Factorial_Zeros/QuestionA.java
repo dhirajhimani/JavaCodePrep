@@ -29,9 +29,14 @@ public class QuestionA {
 	}
 	
 	public static void main(String[] args) {
-		for (int i = 1; i < 12; i++) {
-			System.out.println(i + "! (or " + factorial(i) + ") has " + countFactZeros(i) + " zeros");
-		}
+//		for (int i = 1; i < 12; i++) {
+//			System.out.println(i + "! (or " + factorial(i) + ") has " + countFactZeros(i) + " zeros");
+//		}
+		int i = 6;
+		System.out.println(i + "! (or " + factorial(i) + ") has " + countFactZeros(i) + " zeros");
+
+		i = 12;
+		System.out.println(i + "! (or " + factorial(i) + ") has " + countFactZeros(i) + " zeros");
 	}
 
 }

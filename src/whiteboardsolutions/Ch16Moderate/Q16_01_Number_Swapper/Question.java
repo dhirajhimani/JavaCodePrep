@@ -11,6 +11,16 @@ public class Question {
 		System.out.println("a: " + a);
 		System.out.println("b: " + b);
 	}
+
+	public static void swap2(int a, int b) {
+		// Example for a = 9, b = 4
+		a = a + b; // a = 9 + 4 = 13
+		b = a - b; // b = 13 - 4 = 9
+		a = a - b; // a = 13 - 9 = 4
+
+		System.out.println("a: " + a);
+		System.out.println("b: " + b);
+	}
 	
 	public static void swap_opt(int a, int b) {
 		a = a^b; 
@@ -29,6 +39,7 @@ public class Question {
 		System.out.println("b: " + b);
 		
 		swap(a, b);
+		swap2(a, b);
 		swap_opt(a, b);
 	}
 
