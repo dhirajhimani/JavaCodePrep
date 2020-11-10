@@ -22,8 +22,14 @@ public class NewYearChaos {
                 return;
             }
         }
+        int count = 0;
         for (int i = 0; i < q.length; i++) {
+            count++;
+
             for (int j = 1; j < q.length; j++) {
+                if (q[i] - count == 0) {
+                    i++;
+                }
                 if (q[j-1] > q[j]) {
                     swap(q, j-1, j);
                     minimumBribes++;
