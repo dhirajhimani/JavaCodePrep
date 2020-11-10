@@ -1,43 +1,39 @@
 package hackerrank.arrays;
 
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
+import java.util.Scanner;
 
-public class NewYearChaos {
+public class NewYearChaos2 {
 
     // Complete the minimumBribes function below.
-    static void minimumBribes(int[] q) {
+    static void minimumBribes(int[] A) {
 
-        int minimumBribes = 0;
-        for (int i = 1; i <= q.length; i++) {
-            int bribe = q[i-1] - i;
-            if (bribe > 2) {
-                System.out.println("Too chaotic");
-                return;
+        int n = A.length;
+        int cnt = 0;
+        for(int i = n - 1; i >= 0; i--)
+        {
+            if(A[i] != (i + 1))
+            {
+                if(((i - 1) >= 0) && A[i - 1] == (i + 1))
+                {
+                    cnt++;
+                    swap(A, i, i-1);
+                }
+                else if(((i - 2) >= 0) && A[i - 2] == (i + 1))
+                {
+                    cnt += 2;
+                    A[i - 2] = A[i - 1];
+                    A[i - 1] = A[i];
+                    A[i] = i + 1;
+                }
+                else
+                {
+                    System.out.println("Too chaotic");
+                    return;
+                }
             }
         }
-        int count = 0;
-        for (int i = 0; i < q.length; i++) {
-            count++;
-
-            for (int j = count; j < q.length; j++) {
-                if (q[i] - count == 0) {
-                    i++;
-                }
-                if (q[j-1] > q[j]) {
-                    swap(q, j-1, j);
-                    minimumBribes++;
-                }
-            }
-        }
-
-        System.out.println(minimumBribes + "");
+        System.out.println(String.format("%d",cnt));
     }
 
     public static void swap(int[] q, int a, int b) {
